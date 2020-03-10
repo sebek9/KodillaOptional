@@ -10,6 +10,7 @@ public class WebDriverConfig {
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
     if (driver.equals(CHROME)){
             return new ChromeDriver();
+
     }else{
         return null;
     }
