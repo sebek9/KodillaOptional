@@ -1,0 +1,4 @@
+rootProject.name = 'untitled'
+include 'src:main:kodilla-hibernate'
+findProject(':src:main:kodilla-hibernate')?.name = 'kodilla-hibernate'
+

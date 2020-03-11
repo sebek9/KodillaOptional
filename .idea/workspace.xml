@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82121838-05f6-47b6-aaef-c6a10f4b889b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieAlerty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieListyRozwijalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieNoweOkna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/classes/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/FirstTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/LocationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieCookies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieLokatory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieWindows.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" />
+  </component>
+  <component name="ProjectId" id="1XTU1dc6GtMtsGpGXX4kh95bMG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82121838-05f6-47b6-aaef-c6a10f4b889b" name="Default Changelist" comment="" />
+      <created>1581069363921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581069363921</updated>
+      <workItem from="1581069365151" duration="461000" />
+      <workItem from="1581069968241" duration="693000" />
+      <workItem from="1581451059786" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581070022698">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="373" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581070022698" />
+    <state x="759" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581069707712">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="759" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581069707712" />
+  </component>
+</project>
