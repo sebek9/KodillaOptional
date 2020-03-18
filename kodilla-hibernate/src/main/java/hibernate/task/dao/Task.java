@@ -1,7 +1,9 @@
 package hibernate.task.dao;
 
-import com.kodilla.hibernate.tasklist.TaskList;
 
+import hibernate.tasklist.TaskList;
+
+import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.util.Date;
 /*

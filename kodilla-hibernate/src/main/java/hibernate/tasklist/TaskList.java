@@ -1,8 +1,11 @@
 package hibernate.tasklist;
 
 
-import com.kodilla.hibernate.task.dao.Task;
 
+import hibernate.task.dao.Task;
+import org.hibernate.annotations.Entity;
+
+import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.util.ArrayList;
 import java.util.List;

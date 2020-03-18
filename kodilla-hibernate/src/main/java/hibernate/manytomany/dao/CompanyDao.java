@@ -2,9 +2,6 @@
 package hibernate.manytomany.dao;
 
 import hibernate.manytomany.Company;
-import hibernate.manytomany.Employee;
-import hibernate.manytomany.Company;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
@@ -14,8 +11,9 @@ import java.util.List;
 @Transactional
 @Repository
 public interface CompanyDao extends CrudRepository<Company, Integer> {
-    @Query(nativeQuery = true)
-    List<Company> retrieveWithThreeFirstLetters(@Param("NAME") String name);
-    @Query(nativeQuery = true)
-    List<Company> retrieveWithAnyLetters(@Param("ARG") String name);
+
+    List<Company> findByThreeCharsPrefix(@Param("PREFIX") String prefix);
+
+    List<Company> findByFewLetters(@Param("ARG") String letters);
+
 }

@@ -13,55 +13,8 @@ import java.util.List;
 @Service
 public class FacadeManyToMany {
 
-    @Autowired
-    CompanyDao companyDao;
 
-    @Autowired
-    EmployeeDao employeeDao;
-
-    public void save(Company company) {
-        companyDao.save(company);
-    }
-
-    public void delete(Company company) {
-        companyDao.delete(company);
-    }
-
-
-    public List<Employee> searchEmployee(String findEmployee) throws EntitiesFacadeException {
-        List<Employee> lastname = employeeDao.retrieveEmployeeSurname(findEmployee);
-        if (lastname.isEmpty()) {
-            throw new EntitiesFacadeException(EntitiesFacadeException.ERR_SEARCHEMPLOYEE_ERROR);
-        }
-        return lastname;
-    }
-
-    public List<Employee> searchEmployeeAny(String findEmployee) throws EntitiesFacadeException {
-        List<Employee> anyLettersLastname = employeeDao.findByFewLetters(findEmployee);
-        if (anyLettersLastname.isEmpty()) {
-            throw new EntitiesFacadeException(EntitiesFacadeException.ERR_SEARCHEMPLOYEE_ERROR);
-        }
-        return anyLettersLastname;
-    }
-
-    public List<Company> searchCompany(String findCompany) throws EntitiesFacadeException {
-        List<Company> threeFirstLetters = companyDao.retrieveWithThreeFirstLetters(findCompany);
-        if (threeFirstLetters.size() < 1) {
-            throw new EntitiesFacadeException(EntitiesFacadeException.ERR_SEARCHCOMPANY_ERROR);
-        }
-        return threeFirstLetters;
-    }
-
-    public List<Company> searchCompanyAny(String findCompany) throws EntitiesFacadeException {
-        List<Company> anyLetters = companyDao.retrieveWithAnyLetters(findCompany);
-        if (anyLetters.size() < 1) {
-            throw new EntitiesFacadeException(EntitiesFacadeException.ERR_SEARCHCOMPANY_ERROR);
-        }
-        return anyLetters;
-    }
-}
-
-/*@Autowired
+@Autowired
         private CompanyDao companies;
         @Autowired
         private EmployeeDao employees;
@@ -75,4 +28,3 @@ public class FacadeManyToMany {
             return employees.findByFewLetters("%" + letters + "%");
         }
     }
-*/
