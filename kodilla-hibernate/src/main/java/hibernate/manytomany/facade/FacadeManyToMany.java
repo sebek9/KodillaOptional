@@ -20,11 +20,12 @@ public class FacadeManyToMany {
         private EmployeeDao employees;
 
         public List<Company> findCompanies(String letters) {
-            return companies.findByFewLetters("%" + letters + "%");
-            //BEZPOSREDNIO W ZAPYTANIU
+            return companies.findByFewLetters(letters);
+            //poprawione-bezp w zapytaniu
         }
 
         public List<Employee> findEmployees(String letters) {
-            return employees.findByFewLetters("%" + letters + "%");
+            return employees.findByFewLetters(letters);
+
         }
     }
