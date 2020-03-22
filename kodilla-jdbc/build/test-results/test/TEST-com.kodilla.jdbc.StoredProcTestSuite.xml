@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.jdbc.StoredProcTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-09T16:59:54" hostname="MacBook-Pro-Sebastian.local" time="0.226">
+  <properties/>
+  <testcase name="testUpdateVipLevels" classname="com.kodilla.jdbc.StoredProcTestSuite" time="0.226"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

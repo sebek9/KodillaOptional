@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JDP-2001-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KodillaOptional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KodillaOptional/Git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/game1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tasks" vcs="Git" />
+  </component>
+</project>

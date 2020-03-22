@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82121838-05f6-47b6-aaef-c6a10f4b889b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/array/ArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/array/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/array/LinkedListBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/beautifier/PoemBeautifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/beautifier/PoemDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/beautifier/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/forumuser/Forum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/forumuser/ForumUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/forumuser/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/immutable/ForumUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/ExecuteSaySomething.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/ExpressionExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/MathExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/SaySomething.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/lambda/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/TaskList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/Drawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/SpringIntroRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/world/Continent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/world/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/test/java/com/kodilla/stream/array/ArrayOperationsTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/test/java/com/kodilla/stream/shape/DrawerTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KodillaOptional/src/main/java/com/kodilla/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieAlerty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieGestySelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieListyRozwijalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/test/java/ZadanieNoweOkna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/PatternsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/bigmac/Bigmac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/DrivingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/PaintingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/TaskFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/BuyPredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/CorporateCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualYoungCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/AggressivePredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/BalancedPredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/ConservativePredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/FacebookPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/Millenials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SnapchatPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SocialPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/TwitterPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/YGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/ZGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/bigmac/BigmacTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/pizza/PizzaTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/CustomerTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/social/UserTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-testing/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-testing/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-testing/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-testing/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/loop/testLoopAndConditionalBreakpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/domain/OrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/domain/OrderDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/mapper/OrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/mapper/OrderMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/service/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/main/java/com/kodilla/ecommercee/service/DbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDP-2001-01/src/test/java/com/kodilla/ecommercee/EcommerceeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDP-2001-01/src/test/java/com/kodilla/ecommercee/EcommerceeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KodillaOptional" beforeDir="false" afterPath="$PROJECT_DIR$/KodillaOptional" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/classes/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/FirstTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/LocationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieCookies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieLokatory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/target/test-classes/ZadanieWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-hibernate/src/test/java/facade/FacadeTestSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-hibernate/src/test/java/facade/FacadeTestSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" beforeDir="false" afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.gradle/5.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.gradle/5.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/PatternsRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/bigmac/Bigmac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/pizza/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/DrivingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/PaintingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/TaskFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Prototype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/BuyPredictor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/CorporateCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualYoungCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/AggressivePredictor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/BalancedPredictor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/ConservativePredictor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/FacebookPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/Millenials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SnapchatPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SocialPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/TwitterPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/YGeneration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/ZGeneration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/bigmac/BigmacTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/pizza/PizzaTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/CustomerTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java/kodilla-course/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/social/UserTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/src/main/java/com/crud/tasks/controller/TrelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/src/main/java/com/crud/tasks/controller/TrelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" />
+  </component>
+  <component name="ProjectId" id="1XTU1dc6GtMtsGpGXX4kh95bMG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sebastian-kalinkowski-kodilla-java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82121838-05f6-47b6-aaef-c6a10f4b889b" name="Default Changelist" comment="" />
+      <created>1581069363921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581069363921</updated>
+      <workItem from="1581069365151" duration="461000" />
+      <workItem from="1581069968241" duration="693000" />
+      <workItem from="1581451059786" duration="33000" />
+      <workItem from="1584046087383" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581070022698">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="373" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581070022698" />
+    <state x="759" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581069707712">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="759" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581069707712" />
+  </component>
+</project>

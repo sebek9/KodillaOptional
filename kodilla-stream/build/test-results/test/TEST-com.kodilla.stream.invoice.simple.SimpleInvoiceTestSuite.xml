@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.stream.invoice.simple.SimpleInvoiceTestSuite" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-03-12T22:38:44" hostname="MacBook-Pro-Sebastian.local" time="386.212">
+  <properties/>
+  <testcase name="testGetValueToPay" classname="com.kodilla.stream.invoice.simple.SimpleInvoiceTestSuite" time="386.212">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
