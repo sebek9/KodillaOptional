@@ -19,7 +19,6 @@ public class CrudAppTestSuite {
     private WebDriver driver;
     private Random generator;
 
-    private WebDriverWait wait;
 
     @Before
     public void initTests(){
@@ -32,7 +31,6 @@ public class CrudAppTestSuite {
     public void cleanUpAfterTest(){
         driver.close();
     }
-
 
     private String createCrudAppTestTask() throws InterruptedException {
         final String XPATH_TASK = "//form[contains(@action,\"createTask\")]";
